@@ -1,16 +1,10 @@
-# state
+Aprendendo as funcionalidades do stateless
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![stateless_tes](https://user-images.githubusercontent.com/90880377/162329635-33cff38d-de25-4d74-9460-0cd1f1e3e999.jpg)
+
+
